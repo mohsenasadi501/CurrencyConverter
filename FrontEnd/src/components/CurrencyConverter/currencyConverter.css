@@ -1,0 +1,48 @@
+.container {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    width: 300px;
+    height: 400px;
+    border-radius: 12px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
+
+.content
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.individuals
+{
+    padding: 20px;
+}
+
+.title
+{
+    font-size: 26px;
+    font-family: cursive;
+    position: absolute;
+    top: 70px;
+}
+
+.output
+{
+    text-align: center;
+    width: 250px;
+    position: absolute;
+    bottom: 10px;
+}
+
+.logo
+{
+    position: absolute;
+    top: 10px;
+}

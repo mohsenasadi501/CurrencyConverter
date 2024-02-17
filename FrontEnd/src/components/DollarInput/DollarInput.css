@@ -1,0 +1,8 @@
+.hi
+{
+    border: none;
+    border-bottom: 1px solid black;
+    outline: none;
+    padding: 3px;
+    font-size: 20px;
+}
