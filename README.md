@@ -1,6 +1,6 @@
 # Currency Converter
 
-**Serverside**: ASP.Net Core API
+**Serverside**: ASP.Net Core API 8
 
 **Clientside**: Reactjs
 
